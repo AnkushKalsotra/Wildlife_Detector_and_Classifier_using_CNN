@@ -13,5 +13,5 @@ The final layers of the CNN include fully connected (dense) layers with appropri
 # Model Performance
 The CNN model achieves an impressive accuracy of 95 percent on the test dataset, demonstrating its capability to accurately classify images of cows, dogs, elephants, leopards, and tigers.
 
-#Setup
+# Setup
 Can be run using  a Jupyter Notebook or Google Collab
