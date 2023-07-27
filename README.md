@@ -1,5 +1,5 @@
 # Wildlife_Detector_and_Classifier_using_CNN
-This repository contains a CNN model for classifying images of animals into five categories: cow, dog, elephant, leopard, and tiger. The model achieves an impressive accuracy of 89 percent on a test dataset, making it highly effective for animal recognition tasks.
+This repository contains a CNN model for classifying images of animals into five categories: cow, dog, elephant, leopard, and tiger. The model achieves an impressive accuracy of 92 percent on a test dataset, making it highly effective for animal recognition tasks.
 
 # Dataset
 The model is trained on a carefully curated dataset of labeled images containing various instances of cows, elephants, leopards, and tigers. The dataset has been preprocessed and split into training, validation, and testing sets to ensure accurate evaluation of the model's performance.
@@ -12,3 +12,6 @@ The final layers of the CNN include fully connected (dense) layers with appropri
 
 # Model Performance
 The CNN model achieves an impressive accuracy of 95 percent on the test dataset, demonstrating its capability to accurately classify images of cows, dogs, elephants, leopards, and tigers.
+
+#Setup
+Can be run using  a Jupyter Notebook or Google Collab
